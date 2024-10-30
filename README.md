@@ -1,5 +1,7 @@
 Projeto para fins educativos: Aplicação de Pesquisa de Produtos em Python com Tkinter e PostgreSQL
 
+Esse software ainda não atende totalmente ao conceito SCRUD, pois só faz leitura, mas pretendo implementar gravação em um futuro próximo.
+
 Este repositório contém o código fonte de uma aplicação Python simples para pesquisar produtos em um banco de dados PostgreSQL. A aplicação possui uma interface gráfica intuitiva que permite ao usuário buscar produtos por ID ou por palavra-chave. Os resultados da pesquisa são exibidos em uma tabela ordenável.
 
 **Instruções**:
